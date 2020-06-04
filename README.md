@@ -21,4 +21,4 @@
         
 
 
-<td ><center><img src="media/dammu1.png"  >图2 最终效果图</center></td>
+<td ><center><img src="media/dammu1.PNG"  >图2 最终效果图</center></td>
