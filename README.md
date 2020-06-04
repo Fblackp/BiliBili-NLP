@@ -1,3 +1,4 @@
+```python
 import requests
 import pandas as pd
 import jieba
@@ -65,3 +66,4 @@ for line in lines:
     except:
         print("")
 print(round(k/m,3))
+```
