@@ -11,9 +11,9 @@
     <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 </p>
 
-### 源码地址：https://github.com/Fblackp/BiliBili-NLP/blob/master/Untitled.ipynb
+### 源码地址：hhttps://github.com/Fblackp/BiliBili-NLP/blob/master/media/Untitled.ipynb
 
-### ipynb预览：https://nbviewer.jupyter.org/github/Fblackp/BiliBili-NLP/blob/master/Untitled.ipynb
+### ipynb预览：https://nbviewer.jupyter.org/github/Fblackp/BiliBili-NLP/blob/master/media/Untitled.ipynb
 
 
 
